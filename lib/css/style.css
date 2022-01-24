@@ -4,6 +4,10 @@
 html {
   font-size: 100%;
 }
+* {
+  margin: 0px;
+  padding: 0px;
+}
 body {
   background-color: #fff;
   color: #333;
